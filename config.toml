@@ -1,4 +1,4 @@
-baseURL = "http://monominia.github.io/"
+baseURL = "https://zealous-beach-0d59b240f.azurestaticapps.net/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
