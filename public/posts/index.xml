@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://zealous-beach-0d59b240f.azurestaticapps.net/posts/</link>
+    <link>https://competent-torvalds-8b0728.netlify.app/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 May 2021 04:01:56 -0400</lastBuildDate><atom:link href="https://zealous-beach-0d59b240f.azurestaticapps.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 May 2021 04:01:56 -0400</lastBuildDate><atom:link href="https://competent-torvalds-8b0728.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What I Learnt in Verdocs</title>
-      <link>https://zealous-beach-0d59b240f.azurestaticapps.net/posts/what-i-learnt-in-verdocs/</link>
+      <link>https://competent-torvalds-8b0728.netlify.app/posts/what-i-learnt-in-verdocs/</link>
       <pubDate>Sat, 29 May 2021 04:01:56 -0400</pubDate>
       
-      <guid>https://zealous-beach-0d59b240f.azurestaticapps.net/posts/what-i-learnt-in-verdocs/</guid>
+      <guid>https://competent-torvalds-8b0728.netlify.app/posts/what-i-learnt-in-verdocs/</guid>
       <description>If you wanted to find a full time job, do not try finding a internship at first, just go directly to the full time job huntiing.
 When you try finding an intership, they thought you didn&amp;rsquo;t have the ability to get a full time job.
 A small and low-bar company doesn&amp;rsquo;t deserve your pay off. You can just kill time there and learn new knowledge by the same time.
@@ -21,10 +21,10 @@ Most of the SDE jobs in US shouldn&amp;rsquo;t be taken by Chinese students, bec
     
     <item>
       <title>My First Post</title>
-      <link>https://zealous-beach-0d59b240f.azurestaticapps.net/posts/my-first-post/</link>
+      <link>https://competent-torvalds-8b0728.netlify.app/posts/my-first-post/</link>
       <pubDate>Sun, 09 May 2021 08:47:47 -0400</pubDate>
       
-      <guid>https://zealous-beach-0d59b240f.azurestaticapps.net/posts/my-first-post/</guid>
+      <guid>https://competent-torvalds-8b0728.netlify.app/posts/my-first-post/</guid>
       <description></description>
     </item>
     

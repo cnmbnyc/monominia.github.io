@@ -1,4 +1,4 @@
-baseURL = "https://zealous-beach-0d59b240f.azurestaticapps.net/"
+baseURL = "https://competent-torvalds-8b0728.netlify.app"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
