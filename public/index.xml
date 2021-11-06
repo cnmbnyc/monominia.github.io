@@ -6,7 +6,17 @@
     <description>Recent content on C.N.M.B NYC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Oct 2021 21:31:08 -0400</lastBuildDate><atom:link href="https://competent-torvalds-8b0728.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Nov 2021 18:02:56 -0400</lastBuildDate><atom:link href="https://competent-torvalds-8b0728.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Indexes</title>
+      <link>https://competent-torvalds-8b0728.netlify.app/posts/indexes/</link>
+      <pubDate>Sat, 06 Nov 2021 18:02:56 -0400</pubDate>
+      
+      <guid>https://competent-torvalds-8b0728.netlify.app/posts/indexes/</guid>
+      <description>Indexes Indexes are well known when it comes to databases. Sooner or later there comes a time when database performance is no longer satisfactory. One of the very first things you should turn to when that happens is database indexing.
+The goal of creating an index on a particular table in a database is to make it faster to search through the table and find the row or rows that we want.</description>
+    </item>
+    
     <item>
       <title>What I Learnt in Staples</title>
       <link>https://competent-torvalds-8b0728.netlify.app/posts/what-i-learnt-in-staples/</link>
