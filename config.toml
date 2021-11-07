@@ -2,3 +2,4 @@ baseURL = "https://competent-torvalds-8b0728.netlify.app"
 languageCode = "en-us"
 title = "C.N.M.B NYC"
 theme = "ananke"
+enableemoji = true
