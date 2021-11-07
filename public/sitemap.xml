@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://competent-torvalds-8b0728.netlify.app/</loc>
-    <lastmod>2021-11-06T18:02:56-04:00</lastmod>
+    <loc>https://competent-torvalds-8b0728.netlify.app/posts/bloom-filters/</loc>
+    <lastmod>2021-11-07T16:19:58-05:00</lastmod>
   </url><url>
-    <loc>https://competent-torvalds-8b0728.netlify.app/posts/indexes/</loc>
-    <lastmod>2021-11-06T18:02:56-04:00</lastmod>
+    <loc>https://competent-torvalds-8b0728.netlify.app/</loc>
+    <lastmod>2021-11-07T16:19:58-05:00</lastmod>
   </url><url>
     <loc>https://competent-torvalds-8b0728.netlify.app/posts/</loc>
+    <lastmod>2021-11-07T16:19:58-05:00</lastmod>
+  </url><url>
+    <loc>https://competent-torvalds-8b0728.netlify.app/posts/indexes/</loc>
     <lastmod>2021-11-06T18:02:56-04:00</lastmod>
   </url><url>
     <loc>https://competent-torvalds-8b0728.netlify.app/posts/what-i-learnt-in-staples/</loc>

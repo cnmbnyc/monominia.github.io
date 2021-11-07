@@ -6,7 +6,16 @@
     <description>Recent content on C.N.M.B NYC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Nov 2021 18:02:56 -0400</lastBuildDate><atom:link href="https://competent-torvalds-8b0728.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Nov 2021 16:19:58 -0500</lastBuildDate><atom:link href="https://competent-torvalds-8b0728.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bloom Filters</title>
+      <link>https://competent-torvalds-8b0728.netlify.app/posts/bloom-filters/</link>
+      <pubDate>Sun, 07 Nov 2021 16:19:58 -0500</pubDate>
+      
+      <guid>https://competent-torvalds-8b0728.netlify.app/posts/bloom-filters/</guid>
+      <description>Background If we have a large set of structured data (identified by record IDs) stored in a set of data files, what is the most efficient way to know which file might contain our required data? We don’t want to read each file, as that would be slow, and we have to read a lot of data from the disk. One solution can be to build an index on each data file and store it in a separate index file.</description>
+    </item>
+    
     <item>
       <title>Indexes</title>
       <link>https://competent-torvalds-8b0728.netlify.app/posts/indexes/</link>
