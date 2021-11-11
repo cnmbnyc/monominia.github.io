@@ -1,9 +1,9 @@
 ---
-title: "My First Post"
+title: "Data Partitioning"
 date: 2021-05-09T08:47:47-04:00
 draft: false
 ---
-## Data Partitioning :heart_eyes:
+## Data Partitioning :heart_eyes: For System Design
 
 ### Partitioning Method
 
