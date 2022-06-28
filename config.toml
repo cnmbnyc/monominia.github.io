@@ -3,3 +3,8 @@ languageCode = "en-us"
 title = "C.N.M.B NYC"
 theme = "ananke"
 enableemoji = true
+
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+
+[params]
+  background_color_class = "bg-light-red"
