@@ -6,7 +6,23 @@
     <description>Recent content on C.N.M.B NYC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Aug 2022 20:26:42 -0500</lastBuildDate><atom:link href="https://competent-torvalds-8b0728.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Sep 2022 16:49:20 -0500</lastBuildDate>
+    
+	<atom:link href="https://competent-torvalds-8b0728.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Principles Behind Agile Manifesto</title>
+      <link>https://competent-torvalds-8b0728.netlify.app/posts/principles-behind-agile-manifesto/</link>
+      <pubDate>Thu, 01 Sep 2022 16:49:20 -0500</pubDate>
+      
+      <guid>https://competent-torvalds-8b0728.netlify.app/posts/principles-behind-agile-manifesto/</guid>
+      <description>We follow these principles   Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+  Welcome changing requirements, even late in development. Agile processes harness change for the customer&amp;rsquo;s competitive advantage.
+  Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+  Business people and developers must work together daily throughout the project.</description>
+    </item>
+    
     <item>
       <title>Katherine Walk</title>
       <link>https://competent-torvalds-8b0728.netlify.app/posts/katherine-walk/</link>
