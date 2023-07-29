@@ -6,10 +6,16 @@
     <description>Recent content in Posts on C.N.M.B NYC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Sep 2022 16:49:20 -0500</lastBuildDate>
-    
-	<atom:link href="https://competent-torvalds-8b0728.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 29 Jul 2023 22:27:28 +0000</lastBuildDate><atom:link href="https://competent-torvalds-8b0728.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Success on Jul 29</title>
+      <link>https://competent-torvalds-8b0728.netlify.app/posts/success-on-jul-29/</link>
+      <pubDate>Sat, 29 Jul 2023 22:27:28 +0000</pubDate>
+      
+      <guid>https://competent-torvalds-8b0728.netlify.app/posts/success-on-jul-29/</guid>
+      <description>Succeeded in July 29th, 2023 Run Peloton twice, last for 1 hour.
+Finish Leetcode hash-table 0 ~ 100.</description>
+    </item>
     
     <item>
       <title>Principles Behind Agile Manifesto</title>
@@ -17,10 +23,11 @@
       <pubDate>Thu, 01 Sep 2022 16:49:20 -0500</pubDate>
       
       <guid>https://competent-torvalds-8b0728.netlify.app/posts/principles-behind-agile-manifesto/</guid>
-      <description>We follow these principles   Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
-  Welcome changing requirements, even late in development. Agile processes harness change for the customer&amp;rsquo;s competitive advantage.
-  Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
-  Business people and developers must work together daily throughout the project.</description>
+      <description>We follow these principles Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+Welcome changing requirements, even late in development. Agile processes harness change for the customer&amp;rsquo;s competitive advantage.
+Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+Business people and developers must work together daily throughout the project.
+Build projects around motivated individuals.</description>
     </item>
     
     <item>
@@ -29,7 +36,7 @@
       <pubDate>Sun, 07 Aug 2022 20:26:42 -0500</pubDate>
       
       <guid>https://competent-torvalds-8b0728.netlify.app/posts/katherine-walk/</guid>
-      <description>Katherine start walking today  On the Play Pen When video chat with My parents. My wife is so happy! I feel happy for everyone in this meeting.  </description>
+      <description>Katherine start walking today On the Play Pen When video chat with My parents. My wife is so happy! I feel happy for everyone in this meeting. </description>
     </item>
     
     <item>
@@ -38,7 +45,7 @@
       <pubDate>Sun, 24 Jul 2022 17:54:57 -0500</pubDate>
       
       <guid>https://competent-torvalds-8b0728.netlify.app/posts/i-love-my-family/</guid>
-      <description>The reason I love them  Everyone is funny inside. Every tried the best to support me. They all should get a better life. The world is tough, but they still smile to me.  </description>
+      <description>The reason I love them Everyone is funny inside. Every tried the best to support me. They all should get a better life. The world is tough, but they still smile to me. </description>
     </item>
     
     <item>
@@ -47,7 +54,7 @@
       <pubDate>Sat, 23 Jul 2022 21:31:26 -0500</pubDate>
       
       <guid>https://competent-torvalds-8b0728.netlify.app/posts/why-i-move/</guid>
-      <description>Why I moved to Austin  Save $1000 per month on rental fee. Save $1000 per month on State tax. Save my life to avoid the subway in NYC.  </description>
+      <description>Why I moved to Austin Save $1000 per month on rental fee. Save $1000 per month on State tax. Save my life to avoid the subway in NYC. </description>
     </item>
     
     <item>
@@ -103,7 +110,7 @@ Most of the SDE jobs in US shouldn&amp;rsquo;t be taken by Chinese students, bec
       <pubDate>Sun, 09 May 2021 08:47:47 -0400</pubDate>
       
       <guid>https://competent-torvalds-8b0728.netlify.app/posts/my-first-post/</guid>
-      <description>Data Partitioning 😍 For System Design Partitioning Method  Horizontal Partitioning Vertical Partitioning Directory-based Partitioning  Partitioning Criteria  Key or Hash-based Partitioning List Partitioning Round-robin Partitioning Composite Partitioning  Common Problems of Partitioning  Joins and Denormalization Referential Integrity Rebalancing  </description>
+      <description>Data Partitioning 😍 For System Design Partitioning Method Horizontal Partitioning Vertical Partitioning Directory-based Partitioning Partitioning Criteria Key or Hash-based Partitioning List Partitioning Round-robin Partitioning Composite Partitioning Common Problems of Partitioning Joins and Denormalization Referential Integrity Rebalancing </description>
     </item>
     
   </channel>
